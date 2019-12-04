@@ -7,9 +7,9 @@ Pivot Point requires the following data:
 - Sales
 
 
-**When downloading a CSV from Inquire, you must reformat to standard *.csv.
-*Inquire defaults to UTF-8 CSV which adds additional characters to the first
-*field. Open the CSV in excel and click SAVE AS. Then select the type as CSV.**
+**When downloading a CSV from Inquire, you must reformat to standard .csv.
+Inquire defaults to UTF-8 CSV which adds additional characters to the first
+field. Open the CSV in excel and click SAVE AS. Then select the type as CSV.**
 
 
 ## Parcels
